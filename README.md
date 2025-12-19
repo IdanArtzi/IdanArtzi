@@ -12,7 +12,7 @@ Looking to get started with my first professional role as an analyst!
 
 Please feel free to send an email or reach out to me on LinkedIn!
 
- ⚡ Fun facts:
+ ⚡ ##Fun facts about me:
 - I'm a dog person who likes cats.
 - I'm learning French.
 - I've traveled to over 30 countries. 🌍
