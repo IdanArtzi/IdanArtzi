@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**IdanArtzi/IdanArtzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Idan Artzi.
+I'm the type of person who likes to understand the reasoning behind things; that is why I choose to be a data analyst!
+Currently working on building data analytics projects and dashboards to improve as a data analyst.
+Learning how to extract meaningful insights from raw data with tools such as Python, SQL, Excel, Power BI, and more!
+I’m looking to get started with my first professional role as an analyst!
 
-Here are some ideas to get you started:
+How to reach me: please feel free to send an email or reach out to me on LinkedIn 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun facts:
+I'm a dog person who likes cats.
+I'm learning French.
+I've traveled to over 30 countries. 🌍
+
+Hobbies: Basketball, traveling, and chess!
 -->
