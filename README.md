@@ -13,5 +13,4 @@ How to reach me: please feel free to send an email or reach out to me on LinkedI
 - I'm learning French.
 - I've traveled to over 30 countries. 🌍
 
-- Hobbies: Basketball, traveling, and chess!
--->
+  Hobbies: Basketball, traveling, and chess!
