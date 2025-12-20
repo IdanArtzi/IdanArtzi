@@ -2,7 +2,7 @@
 
 I'm Idan Artzi.
 
-I'm the type of person who likes to understand the reasoning behind things; that is why I choose to be a data analyst!
+I like to understand the reasoning behind things; that is why I choose to be a data analyst!
 
 Currently working on building data analytics projects and dashboards to improve as a data analyst.
 
