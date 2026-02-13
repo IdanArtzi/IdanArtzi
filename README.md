@@ -2,9 +2,9 @@
 
 I'm Idan Artzi.
 
-I like to understand the reasoning behind things; that is why I choose to be a data analyst!
+I like to understand the reasoning behind things; that is why I aspire to be a data analyst!
 
-Currently working on building data analytics projects and dashboards to improve as a data analyst.
+Currently working as and IT support specialist and on building data analytics projects and dashboards to improve as a data analyst.
 
 I'm Learning how to extract meaningful insights from raw data with tools such as Python, SQL, Excel, Power BI, and more!
 
