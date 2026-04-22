@@ -10,6 +10,6 @@ I'm Learning how to extract meaningful insights from raw data with tools such as
 
 Looking to get started with my first professional role as an analyst!
 
-Please feel free to send an email or reach out to me on LinkedIn!
+Always available via email or LinkedIn.
 
 You can find my Resume in the below pinned repo :)
