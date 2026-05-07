@@ -1,15 +1,12 @@
-## Hi there 👋
+## Hi, I'm Idan Artzi 👋
 
-I'm Idan Artzi.
+Aspiring Data Analyst turning data into business insights
 
-I like to understand the reasoning behind things; that is why I Analyze Data!
+I'm passionate about understanding the “why” behind numbers and turning raw data into clear, actionable insights.
 
-Currently working in IT support specialist and on building data analytics projects and dashboards to improve as a data analyst.
+Currently working in IT Support while transitioning into Data Analytics. 
+I build end-to-end projects and dashboards using Python, SQL, Excel and Power BI.
 
-I'm Learning how to extract meaningful insights from raw data with tools such as Python, SQL, Excel, Power BI, and more!
+Actively seeking my first Data Analyst role.
 
-Looking to get started with my first professional role as an analyst!
-
-Always available via email or LinkedIn.
-
-You can find my Resume in the below pinned repo :)
+Feel free to reach out via email or LinkedIn — and check out my resume in the pinned repository below.
