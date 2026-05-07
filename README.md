@@ -1,6 +1,6 @@
 ## Hi, I'm Idan Artzi 👋
 
-**Aspiring Data Analyst turning data into business insights**
+**Aspiring Data Analyst turning data into business insights.**
 
 I'm passionate about understanding the “why” behind numbers and turning raw data into clear, actionable insights.
 
